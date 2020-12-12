@@ -12,7 +12,7 @@ Fiz para testar um pouco o recoil.
 
 ![alt text](https://i.imgur.com/MeJQFuM.gif)
 
-Ou acesse teste clicando [aqui](https://optimistic-ride-c8592a.netlify.app/)
+Ou acesse clicando [aqui](https://optimistic-ride-c8592a.netlify.app/)
 
 &nbsp;
 
