@@ -1,0 +1,28 @@
+input[type='text'] {
+  width: 300px;
+  height: 40px;
+  border: 2px solid #e0e0e0;
+  border-radius: 6px;
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
+  font-size: 16px;
+  padding-left: 40px;
+}
+
+::-webkit-input-placeholder {
+  font-size: 15px;
+  line-height: 21px;
+  color: #545860;
+}
+
+.fail {
+  border: 1.5px solid #dc3545 !important;
+}
+
+.show {
+  margin-bottom: 3px;
+  color: #dc3545;
+}
+
+.hidden {
+  display: none;
+}
