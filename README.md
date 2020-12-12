@@ -8,9 +8,11 @@ Esse aplicativo é uma "versão 2" [dessa aplicação](https://github.com/gabrie
 
 Fiz para testar um pouco o recoil. 
 
-## 🎥 Algumas imagens do projeto
+## 🎥 Prévia do projeto
 
 ![alt text](https://i.imgur.com/MeJQFuM.gif)
+
+Ou acesse teste clicando [aqui](https://optimistic-ride-c8592a.netlify.app/)
 
 &nbsp;
 
