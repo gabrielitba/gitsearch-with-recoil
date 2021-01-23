@@ -4,7 +4,7 @@
 
 ## 🙋‍♂ Apresentação:
 
-Esse aplicativo é uma "versão 2" [dessa aplicação](https://github.com/gabrielitba/gitsearch) que fiz anteriormente. 
+Versão 2 [de uma aplicação](https://github.com/gabrielitba/gitsearch) que fiz anteriormente. 
 
 Fiz para testar um pouco o recoil. 
 
