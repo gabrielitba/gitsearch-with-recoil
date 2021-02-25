@@ -4,9 +4,7 @@
 
 ## 🙋‍♂ Apresentação:
 
-Versão 2 [de uma aplicação](https://github.com/gabrielitba/gitsearch) que fiz anteriormente. 
-
-Fiz para testar um pouco o recoil. 
+Versão 2 [de uma aplicação](https://github.com/gabrielitba/gitsearch) que fiz anteriormente, essa utilizando dessa vez o Recoil para gerencialmento de estado. 
 
 ## 🎥 Prévia do projeto
 
